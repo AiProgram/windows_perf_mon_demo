@@ -1,0 +1,12 @@
+# build output
+bin/
+obj/
+
+# captured data / logs
+*.jsonl
+*.log
+*.etl
+
+# editor / VS
+.vs/
+*.user
